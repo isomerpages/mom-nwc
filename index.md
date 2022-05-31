@@ -19,7 +19,7 @@ sections:
         - title: RESOURCES
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: TRIPARTISM IN SINGAPORE
+        - title: 50 YEARS OF NWC
           description: Page A is important too
           url: /privacy/
   - infobar:
