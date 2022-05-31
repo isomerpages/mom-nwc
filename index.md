@@ -10,16 +10,16 @@ sections:
       title: National Wages Council
       subtitle: Sustainable Wage Growth through Tripartism
       background: /images/hero-banner.png
-      button: Contact Us
+      button: LEARN MORE
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: NWC Guidelines
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: RESOURCES
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: TRIPARTISM IN SINGAPORE
           description: Page A is important too
           url: /privacy/
   - infobar:
