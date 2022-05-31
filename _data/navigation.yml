@@ -2,9 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
+  - title: Who We Are
     url: /example-page/
-  - title: Example Collection
+  - title: What We Do
     collection: example-collection
   - title: Resources
     resource_room: true
+  - title: What We Do
+    url: /permalink
+    sublinks: []
