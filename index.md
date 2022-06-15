@@ -31,8 +31,7 @@ sections:
       button: Read the guidelines
       url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: The Tripartite Partners
+      title: The Tripartite Partners
       alt: Tripartite Partner Logos
       image: /images/tripartite logos.png
 ---
