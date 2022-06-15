@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Overview.md
-      - Overview/.keep
-      - Overview/example-subpage.md
