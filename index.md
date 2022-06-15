@@ -17,11 +17,14 @@ sections:
           description: View current and past guidelines
           url: https://google.com
         - title: Flexible Wages
-          description: A guide for employers
+          description: Adopt & Implement the Flexible Wage System
           url: https://gmail.com
         - title: Progressive wages
           description: Page A is important too
           url: /privacy/
+        - title: 50 years of NWC
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
