@@ -33,5 +33,6 @@ sections:
   - infopic:
       title: Infopic Title
       subtitle: The Tripartite Partners
-      alt: Image alt text
+      alt: Tripartite Partner Logos
+      image: /images/tripartite logos.png
 ---
