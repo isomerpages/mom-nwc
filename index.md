@@ -20,7 +20,7 @@ sections:
           description: Adopt the Flexible Wage System
           url: https://gmail.com
         - title: Progressive wages
-          description: Page A is important too
+          description: Uplifting Lower-Wage Workers
           url: /privacy/
         - title: 50 years of NWC
           description: Key Highlight description
