@@ -13,8 +13,8 @@ sections:
       button: Read the NWC 2021/2022 Guidelines
       url: /contact-us/
       key_highlights:
-        - title: 2021/2022 NWC Guidelines
-          description: Infographics
+        - title: NWC Guidelines
+          description: View current and past guidelines
           url: https://google.com
         - title: Flexible Wages
           description: A guide for employers
