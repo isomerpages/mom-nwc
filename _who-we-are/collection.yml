@@ -2,5 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
-      - example-page/.keep
-      - example-page/example-subpage.md
+      - Overview/.keep
+      - Overview/example-subpage.md
