@@ -1,13 +1,15 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Who We Are
     url: /example-page/
   - title: What We Do
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: What We Do
+  - title: Contact Us
+    url: /contact-us/
+  - title: Resources
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: NWC Guidelines
+        url: /permalink
