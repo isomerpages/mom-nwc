@@ -26,14 +26,12 @@ sections:
           description: Celebrating the NWC's Golden Jubilee
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: NWC 2022/2023 Guidelines
+      description: "The NWC 2022/2023 Guidelines were released on XX October 2023. "
+      button: Read the guidelines
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: The Tripartite Partners
+      alt: Image alt text
 ---
-
