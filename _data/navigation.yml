@@ -1,15 +1,28 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Who We Are
+    url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
+      - title: Meet the Council Members
+        url: /permalink
+      - title: The NWC's History
+        url: /permalink
+      - title: Milestones
+        url: /permalink
+  - title: Ignore this
     url: /example-page/
-  - title: What We Do
+  - title: Ignore this
     collection: example-collection
-  - title: Resources
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
   - title: Resources
     url: /permalink
     sublinks:
       - title: NWC Guidelines
         url: /permalink
+      - title: Flexible Wage System
+        url: /permalink
+      - title: Progressive Wage Model
+        url: /permalink
+  - title: Contact Us
+    url: /contact-us/
