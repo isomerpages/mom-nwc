@@ -1,4 +1,5 @@
 collections:
   guidelines:
     output: true
-    order: []
+    order:
+      - 20212022 Guidelines.md
