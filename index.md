@@ -23,7 +23,7 @@ sections:
           description: Uplifting Lower-Wage Workers
           url: /privacy/
         - title: 50 years of NWC
-          description: Key Highlight description
+          description: Celebrating the NWC's Golden Jubilee
           url: ""
   - infobar:
       title: Infobar title
