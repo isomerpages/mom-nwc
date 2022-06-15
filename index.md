@@ -30,8 +30,4 @@ sections:
       description: "The NWC 2022/2023 Guidelines were released on XX October 2023. "
       button: Read the guidelines
       url: /faq/
-  - infopic:
-      title: The Tripartite Partners
-      alt: Tripartite Partner Logos
-      image: /images/tripartite logos.png
 ---
