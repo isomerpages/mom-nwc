@@ -1,7 +1,7 @@
 logo: /images/nwclogo.png
 links:
   - title: Who We Are
-    url: /permalink
+    url: /who-we-are
     sublinks:
       - title: Overview
         url: /permalink
