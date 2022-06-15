@@ -14,10 +14,10 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: NWC Guidelines
-          description: View current and past guidelines
+          description: View Current and Past Guidelines
           url: https://google.com
         - title: Flexible Wages
-          description: Adopt & Implement the Flexible Wage System
+          description: Adopt the Flexible Wage System
           url: https://gmail.com
         - title: Progressive wages
           description: Page A is important too
