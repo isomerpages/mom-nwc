@@ -13,8 +13,8 @@ links:
         url: /permalink
   - title: Ignore this
     url: /example-page/
-  - title: Ignore this
-    collection: example-collection
+  - title: Who We Are
+    collection: who-we-are
   - title: Resources
     url: /permalink
     sublinks:
