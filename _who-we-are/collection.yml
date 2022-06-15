@@ -1,5 +1,5 @@
 collections:
-  example-collection:
+  who-we-are:
     output: true
     order:
       - example-page/.keep
