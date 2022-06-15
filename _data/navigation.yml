@@ -1,19 +1,6 @@
 logo: /images/nwclogo.png
 links:
   - title: Who We Are
-    url: /who-we-are
-    sublinks:
-      - title: Overview
-        url: /who-we-are/overview
-      - title: Meet the Council Members
-        url: /who-we-are/councilmembers
-      - title: The NWC's History
-        url: /who-we-are/history
-      - title: Milestones
-        url: /permalink
-  - title: Ignore this
-    url: /example-page/
-  - title: Ignore this
     collection: who-we-are
   - title: Resources
     url: /permalink
