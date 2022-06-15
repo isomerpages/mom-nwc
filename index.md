@@ -19,7 +19,7 @@ sections:
         - title: Flexible Wages
           description: A guide for employers
           url: https://gmail.com
-        - title: 50 YEARS OF NWC
+        - title: Progressive wages
           description: Page A is important too
           url: /privacy/
   - infobar:
