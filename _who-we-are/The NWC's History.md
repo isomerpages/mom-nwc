@@ -11,4 +11,4 @@ description: ""
 
 * **On 7 February 1972, it was announced that a National Wages Council (NWC) would be set up as an advisory body on wage adjustments.** The NWC would formulate wage guidelines for employers and workers that were in line with long-term economic growth, so that Singapore’s economic and social development would not be undermined.
 
-* For further NWC history, read **[The Story of NWC](https://www.google.com)**.
+* To find out more, please read **[The Story of NWC](https://www.google.com)**.
