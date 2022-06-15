@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: National Wages Council
+description: The National Wages Council website
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -36,3 +36,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
