@@ -2,7 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
-      - Milestones.md
       - Overview.md
       - Meet the Council Members.md
       - The NWC's History.md
+      - Milestones.md
