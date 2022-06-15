@@ -13,11 +13,11 @@ sections:
       button: LEARN MORE
       url: /contact-us/
       key_highlights:
-        - title: NWC Guidelines
-          description: Important highlight A is important
+        - title: 2021/2022 NWC Guidelines
+          description: Infographics
           url: https://google.com
-        - title: RESOURCES
-          description: Important highlight B is equally important
+        - title: Flexible Wages
+          description: A guide for employers
           url: https://gmail.com
         - title: 50 YEARS OF NWC
           description: Page A is important too
