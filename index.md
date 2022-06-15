@@ -10,7 +10,7 @@ sections:
       title: National Wages Council
       subtitle: Sustainable Wage Growth through Tripartism
       background: /images/hero-banner.png
-      button: LEARN MORE
+      button: Read the NWC 2021/2022 Guidelines
       url: /contact-us/
       key_highlights:
         - title: 2021/2022 NWC Guidelines
