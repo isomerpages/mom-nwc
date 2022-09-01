@@ -1,6 +1,6 @@
 ---
 title: The NWC's History
-permalink: /who-we-are/history
+permalink: /who-we-are/history/
 description: ""
 ---
 > "The spirit of tripartite partnership was fostered and strengthened over the years through the National Wages Council... This is a unique system which has served us well and has been our competitive advantage. We should not take the co-operation for granted. We should preserve and strengthen this valuable institution so that can continue to benefit business, workers/unions and the economy." - **Mr Lee Kuan Yew** 
