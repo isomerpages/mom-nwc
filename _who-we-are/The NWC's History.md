@@ -3,7 +3,7 @@ title: The NWC's History
 permalink: /who-we-are/history/
 description: ""
 ---
-> "The spirit of tripartite partnership was fostered and strengthened over the years through the National Wages Council... This is a unique system which has served us well and has been our competitive advantage. We should not take the co-operation for granted. We should preserve and strengthen this valuable institution so that can continue to benefit business, workers/unions and the economy." - Mr Lee Kuan Yew
+> "The spirit of tripartite partnership was fostered and strengthened over the years through the National Wages Council... This is a unique system which has served us well and has been our competitive advantage. We should not take the co-operation for granted. We should preserve and strengthen this valuable institution so that can continue to benefit business, workers/unions and the economy." - **Mr Lee Kuan Yew**
 
 * **In February 1972, the National Wages Council  convened for the first time to deliberate and forge national consensus on wage guidelines for employers to meet the needs of businesses, workers and the economy.** Since then, the NWC has convened annually to release its guidelines, and played a critical role in fostering tripartite partnership and collaboration in Singapore. 
 
