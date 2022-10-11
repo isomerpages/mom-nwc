@@ -1,4 +1,5 @@
 collections:
   progressive-wages:
     output: true
-    order: []
+    order:
+      - Progressive Wages.md
