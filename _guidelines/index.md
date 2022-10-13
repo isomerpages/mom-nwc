@@ -15,7 +15,7 @@ Read past guidelines here:
 [2019/2020 Guidelines](https://www.mom.gov.sg/newsroom/press-releases/2019/0530-national-wages-council-2019-2020-guidelines)
 
 [2020/2021 Guidelines](https://www.mom.gov.sg/newsroom/press-releases/2020/0330-national-wages-council-2020-2021-guidelines)
-	-[2020/2021 Supplementary Guidelines](https://www.mom.gov.sg/newsroom/press-releases/2020/1016-national-wages-council-supplementary-guidelines-2020-2021)
-	-[2020/2021 Addendum] (https://www.mom.gov.sg/newsroom/press-releases/2021/0514-national-wages-council-2020-2021-addendum)
+	- [2020/2021 Supplementary Guidelines](https://www.mom.gov.sg/newsroom/press-releases/2020/1016-national-wages-council-supplementary-guidelines-2020-2021)
+	- [2020/2021 Addendum] (https://www.mom.gov.sg/newsroom/press-releases/2021/0514-national-wages-council-2020-2021-addendum)
 
 
