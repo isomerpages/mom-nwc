@@ -18,10 +18,10 @@ sections:
           url: /guidelines/
         - title: Flexible Wages
           description: Adopt the Flexible Wage System
-          url: https://gmail.com
+          url: /flexible-wages/
         - title: Progressive wages
           description: Uplifting Lower-Wage Workers
-          url: /privacy/
+          url: /progressive-wages/
         - title: 50 years of NWC
           description: Celebrating the NWC's Golden Jubilee
           url: /who-we-are/history/
