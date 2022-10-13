@@ -1,6 +1,6 @@
 ---
+layout: resources-alt
 title: Progressive Wages
 permalink: /progressive-wages/
-description: ""
+description: Progressive Wages
 ---
-For WPSD's input
