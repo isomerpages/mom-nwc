@@ -18,7 +18,7 @@ sections:
           url: /guidelines/
         - title: Flexible Wages
           description: Adopt the Flexible Wage System
-          url: /flexible-wages/
+          url: /_flexiblewages/flexible-wages/
         - title: Progressive wages
           description: Uplifting Lower-Wage Workers
           url: /progressive-wages/
