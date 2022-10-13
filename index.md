@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: NWC Guidelines
           description: View Current and Past Guidelines
-          url: /NWC-guidelines/
+          url: /guidelines/
         - title: Flexible Wages
           description: Adopt the Flexible Wage System
           url: https://gmail.com
