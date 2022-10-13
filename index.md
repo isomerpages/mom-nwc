@@ -21,7 +21,7 @@ sections:
           url: /flexiblewages/flexible-wages/
         - title: Progressive wages
           description: Uplifting Lower-Wage Workers
-          url: /progressive-wages/
+          url: /_progessivewages/
         - title: 50 years of NWC
           description: Celebrating the NWC's Golden Jubilee
           url: /who-we-are/history/
