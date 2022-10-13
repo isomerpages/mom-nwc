@@ -24,7 +24,7 @@ sections:
           url: /privacy/
         - title: 50 years of NWC
           description: Celebrating the NWC's Golden Jubilee
-          url: ""
+          url: /who-we-are/history/
   - infobar:
       title: NWC 2022/2023 Guidelines
       description: "The NWC 2022/2023 Guidelines were released on 10 November 2023. "
