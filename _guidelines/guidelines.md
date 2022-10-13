@@ -4,7 +4,7 @@ permalink: /guidelines/
 description: Past and Present NWC Guidelines
 breadcrumb: Past and Present NWC Guidelines
 ---
-### The NWC convenes every year to establish guidelines for wages and wage-related matters. <br><br> Read past guidelines here: <br><br>
+### **The NWC convenes every year to establish guidelines for wages and wage-related matters.** <br><br> Read past guidelines here: <br><br>
 
 [2021/2022 Guidelines](https://www.mom.gov.sg/-/media/mom/documents/press-releases/2021/1029-nwc-guidelines.pdf)
 
