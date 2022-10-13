@@ -1,6 +1,6 @@
 ---
 title: NWC Guidelines
-permalink: /NWC-guidelines/guidelines
+permalink: /guidelines
 description: National Wages Council Guidelines
 breadcrumb: Past Guidelines
 ---
