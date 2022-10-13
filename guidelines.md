@@ -1,8 +1,8 @@
 ---
-title: Past and Present NWC Guidelines
+title: NWC Guidelines
 permalink: /guidelines/
 description: Past and Present NWC Guidelines
-breadcrumb: Past and Present NWC Guidelines
+breadcrumb: NWC Guidelines
 ---
 ### **The NWC convenes every year to establish guidelines for wages and wage-related matters.** <br><br> Read past guidelines here: <br><br>
 
