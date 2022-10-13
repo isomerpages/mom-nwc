@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: NWC Guidelines
           description: View Current and Past Guidelines
-          url: https://google.com
+          url: /guidelines/
         - title: Flexible Wages
           description: Adopt the Flexible Wage System
           url: https://gmail.com
@@ -29,5 +29,5 @@ sections:
       title: NWC 2022/2023 Guidelines
       description: "The NWC 2022/2023 Guidelines were released on 10 November 2023. "
       button: Read the guidelines
-      url: /guidelines/
+      url: placeholder
 ---
