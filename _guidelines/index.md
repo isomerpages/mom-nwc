@@ -2,7 +2,7 @@
 title: NWC Guidelines
 permalink: /guidelines
 description: National Wages Council Guidelines
-breadcrumb: NWC Guidelines
+breadcrumb: Past Guidelines
 ---
 The NWC convenes every year to establish guidelines for wages and wage-related matters.  
 Read past guidelines here:
