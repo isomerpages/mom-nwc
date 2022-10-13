@@ -1,7 +1,7 @@
 ---
 layout: resources-alt
 title: Flexible Wages
-permalink: /flexiblewages/flexible-wages/
+permalink: /_flexiblewages/
 description: Flexible Wages
 ---
 Wages be flexible
