@@ -1,8 +1,8 @@
 ---
-
-title: Who We Are
+layout: who-we-are
+title: Meet the Council Members
 permalink: /who-we-are/councilmembers/
-breadcrumb: Who We Are
+breadcrumb: Meet the Council Members
 ---
 
 ### The beginning of spring is not always determined by fixed calendar dates. The phenological or ecological definition of spring relates to biological indicators, such as the blossoming of a range of plant species, the activities of animals, and the special smell of soil that has reached the temperature for micro flora to flourish.
