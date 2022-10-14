@@ -1,0 +1,17 @@
+board-members:
+  - name: Mr Peter Seah Lim Huat
+    title: Chairman  
+    DBS Bank Ltd
+    email: person_a@test.com
+  - name: Person B
+    title: Title B
+    email: person_b@test.com
+  - name: Person C
+    title: Title C
+    email: person_c@test.com
+  - name: Person D
+    title: Title D
+    email: person_d@test.com
+  - name: Person E
+    title: Title E
+    email: person_e@test.com
