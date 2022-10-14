@@ -3,10 +3,10 @@ links:
   - title: Who We Are
     collection: who-we-are
   - title: Resources
-    url: /permalink
+    url: /guidelines/ "filler, might replace with a Resources page down the line"
     sublinks:
       - title: NWC Guidelines
-        url: /permalink
+        url: /guidelines/
       - title: Flexible Wage System
         url: /resources/flexible-wages/
       - title: Progressive Wage Model
