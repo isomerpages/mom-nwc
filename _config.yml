@@ -15,12 +15,6 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-
-collections:  
-  who-we-are:    
-    output: true
-
-
 resources_name: Resources
 description: The National Wages Council website
 permalink: none
