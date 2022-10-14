@@ -1,5 +1,5 @@
 ---
-layout: who-we-are
+
 title: Who We Are
 permalink: /who-we-are/councilmembers/
 breadcrumb: Who We Are
