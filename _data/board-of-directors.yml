@@ -1,14 +1,21 @@
 # Board of Directors
-- name: Person A
-  title: Title A
-  organisation: Organisation A
+- name: Mr Peter Seah Lim Huat
+  title: Chairman
+  organisation: DBS Bank Ltd
   image-url: /images/board-of-directors/Person_A.jpg
-- name: Person B
-  title: Title B
-  organisation: Organisation B
+- name: Dr Robert Yap
+  title: President
+  organisation: Singapore National Employers Federation
   image-url: /images/board-of-directors/Person_B.jpg
-- name: Person C
-  title: Title C
-  organisation: Organisation C
+- name: Mr Gan Seow Kee
+  title: Vice-Chairman
+  organisation: Singapore Business Federation
   image-url: /images/board-of-directors/Person_C.jpg
-
+- name: Mr Kuah Boon Wee
+  title: Council Member
+  organisation: Singapore Chinese Chamber of Commerce & Industry
+  image-url: /images/board-of-directors/Person_C.jpg
+- name: Mr Kohe Hassan
+  title: Board Member
+  organisation: Singapore Malay Chamber of Commerce & Industry
+  image-url: /images/board-of-directors/Person_C.jpg
