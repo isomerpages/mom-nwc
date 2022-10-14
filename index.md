@@ -24,7 +24,7 @@ sections:
           url: https://www.mom.gov.sg/employment-practices/progressive-wage-model
         - title: 50 years of NWC
           description: Celebrating the NWC's Golden Jubilee
-          url: /who-we-are/councilmembers/
+          url: /who-we-are/history/
   - infobar:
       title: NWC 2022/2023 Guidelines
       description: "The NWC 2022/2023 Guidelines were released on 10 November 2023. "
