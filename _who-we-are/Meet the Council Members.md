@@ -74,7 +74,6 @@ breadcrumb: Meet the Council Members
           </p>
           <h6 class="is-marginless margin--top--xs"><b>{{- director.organisation -}}</b></h6>
             <small class="is-uppercase" style="font-size: 0.75rem">{{- director.title2 -}}</small><br>
-          </p>
           <h6 class="is-marginless margin--top--xs"><b>{{- director.organisation2 -}}</b></h6>
         </div>
       </div>
