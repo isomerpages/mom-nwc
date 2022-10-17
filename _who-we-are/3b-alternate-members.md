@@ -2,7 +2,7 @@
 title: Alternate Council Members
 permalink: /who-we-are/alternatemembers/
 breadcrumb: Alternate Council Members
-second_nav_title: "Meet the Council Members"
+third_nav_title: "Meet the Council Members"
 ---
 
 ## **Alternate Members of the National Wages Council 2022/2023**
