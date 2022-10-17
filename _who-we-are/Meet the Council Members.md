@@ -1,5 +1,5 @@
 ---
-layout: default
+
 title: Meet the Council Members
 permalink: /who-we-are/councilmembers/
 breadcrumb: Meet the Council Members
