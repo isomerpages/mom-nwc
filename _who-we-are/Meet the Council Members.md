@@ -8,7 +8,7 @@ breadcrumb: Meet the Council Members
 ## **Members of the National Wages Council 2022/2023**
 
 ### **Chairman**
-<br><br>
+<br>
 {% assign board-of-directors = site.data.council-members.chairman %}
 <div class="row is-multiline padding--bottom--lg" id="board-of-directors">
   {% for director in board-of-directors %}
@@ -32,7 +32,7 @@ breadcrumb: Meet the Council Members
 </div>
 
 ### **Employer Group**
-<br><br>
+<br>
 {% assign board-of-directors = site.data.council-members.employer-group %}
 <div class="row is-multiline padding--bottom--lg" id="board-of-directors">
   {% for director in board-of-directors %}
@@ -56,7 +56,7 @@ breadcrumb: Meet the Council Members
 </div>
 
 ### **Employee Group**
-<br><br>
+<br>
 {% assign board-of-directors = site.data.council-members.employer-group %}
 <div class="row is-multiline padding--bottom--lg" id="board-of-directors">
   {% for director in board-of-directors %}
@@ -83,7 +83,7 @@ breadcrumb: Meet the Council Members
 </div>
 
 ### **Government Group**
-<br><br>
+<br>
 {% assign board-of-directors = site.data.council-members.employer-group %}
 <div class="row is-multiline padding--bottom--lg" id="board-of-directors">
   {% for director in board-of-directors %}
