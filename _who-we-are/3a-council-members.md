@@ -1,8 +1,8 @@
 ---
 
-title: Meet the Council Members
+title: Council Members
 permalink: /who-we-are/councilmembers/
-breadcrumb: Meet the Council Members
+breadcrumb: Council Members
 third_nav_title: "Meet the Council Members"
 ---
 
