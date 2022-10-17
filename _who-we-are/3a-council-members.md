@@ -1,8 +1,9 @@
 ---
 
-title: Meet the Council Members
+title: NWC 2022/2023 Members
 permalink: /who-we-are/councilmembers/
 breadcrumb: Meet the Council Members
+second_nav_title: "Meet the Council Members"
 ---
 
 ## **Members of the National Wages Council 2022/2023**
