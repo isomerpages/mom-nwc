@@ -1,7 +1,7 @@
 ---
-title: Alternate Council Members
+title: NWC 2022/2023 Alternate Members
 permalink: /who-we-are/alternatemembers/
-breadcrumb: Alternate Council Members
+breadcrumb: Alternate Members
 third_nav_title: "Meet the Council Members"
 ---
 
