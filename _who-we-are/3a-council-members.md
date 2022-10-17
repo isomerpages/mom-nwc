@@ -1,6 +1,6 @@
 ---
 
-title: NWC 2022/2023 Members
+title: Meet the Council Members
 permalink: /who-we-are/councilmembers/
 breadcrumb: Meet the Council Members
 second_nav_title: "Meet the Council Members"
