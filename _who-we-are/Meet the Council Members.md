@@ -57,7 +57,7 @@ breadcrumb: Meet the Council Members
 
 ### **Employee Group**
 <br>
-{% assign board-of-directors = site.data.council-members.employer-group %}
+{% assign board-of-directors = site.data.council-members.employee-group %}
 <div class="row is-multiline padding--bottom--lg" id="board-of-directors">
   {% for director in board-of-directors %}
     <div class="col is-half person-info-card padding--right">
@@ -84,7 +84,7 @@ breadcrumb: Meet the Council Members
 
 ### **Government Group**
 <br>
-{% assign board-of-directors = site.data.council-members.employer-group %}
+{% assign board-of-directors = site.data.council-members.government-group %}
 <div class="row is-multiline padding--bottom--lg" id="board-of-directors">
   {% for director in board-of-directors %}
     <div class="col is-half person-info-card padding--right">
