@@ -59,14 +59,14 @@ breadcrumb: FAQ
 
 
 
-### Wage Outlook <a name="wage-outlook"></a>
+### **Wage Outlook** <a name="wage-outlook"></a>
 
 #####	What is the current wage outlook? <a name="1"></a>
 
   * For the rest of the year, resident employment should continue to expand alongside continuing economic recovery. In 2022, demand for resident and   non-resident workers will rise further as the economy expands at an above-trend pace. As labour market slack dissipates and foreign labour supply gradually normalises, resident wage growth is anticipated to strengthen. 
 <br><br>
 
-### Regarding the Guidelines <a name="regarding-the-guidelines"></a>
+### **Regarding the Guidelines** <a name="regarding-the-guidelines"></a>
 
 #####	What are the key areas of focus in the NWC Guidelines? <a name="2"></a>
 
@@ -82,7 +82,7 @@ breadcrumb: FAQ
   *	However, there was strong conviction among tripartite partners to uplift LWWs, and for all members of society to play their part in achieving this. As a result, the tripartite partners were able to reach a consensus. 
 <br><br>
 
-### Recovering Employers <a name="recovering-employers"></a> 
+### **Recovering Employers** <a name="recovering-employers"></a> 
 
 #####	What is the NWC’s definition of ‘employers that have recovered or are recovering’? How should companies assess if they are in this category? <a name="4"></a>
 
@@ -104,7 +104,7 @@ breadcrumb: FAQ
   *	MOM also reached out to employees who felt that their employers’ cost-saving measures were unreasonable or unfair. Through MOM’s intervention which included assessing fairness of employers’ cost-saving measures, the vast majority of employers were able to resolve their disputes amicably with the employees who had lodged complaints initially; with one in five employers also providing better salary support to their employees after MOM’s intervention.
 <br><br>
 
-### Lower Wage Workers <a name="lower-wage-workers"></a> 
+### **Lower Wage Workers** <a name="lower-wage-workers"></a> 
 
 #####	Why has the salary threshold of those considered lower-wage workers (LWWs) changed to $2,000 in gross monthly wage? <a name="8"></a> 
 
@@ -132,7 +132,7 @@ breadcrumb: FAQ
   *	Nonetheless, we recognise that there may be instances where employers need to reduce wages to save jobs. The Tripartite Clusters that oversee the respective PWMs can provide guidance on implementing the Flexible Wage System in their sectors.
 <br><br>
 
-### Implementation <a name="implementation"></a>
+### **Implementation** <a name="implementation"></a>
 
 #####	How does NWC track the implementation and take-up of the wage-related recommendations, particularly the adoption of the Flexible Wage System? <a name="13"></a>
 
@@ -167,7 +167,7 @@ breadcrumb: FAQ
   *	Employers are encouraged to take the NWC Guidelines into consideration while making wage adjustments for their foreign employees.
 <br><br>
 
-### Job Redesign <a name="job-redesign"></a> 
+### **Job Redesign** <a name="job-redesign"></a> 
 
 #####	Why should employers do job redesign? What support is there for employers that wish to embark on job redesign and how can employers apply? <a name="19"></a>
 
@@ -176,7 +176,7 @@ breadcrumb: FAQ
   *	At the same time, employees can be reskilled and upskilled to take on better jobs with higher wages. This makes jobs more attractive for employees, and they in turn are more likely to stay and grow with businesses. PSG-JR can therefore result in win-win benefits for both employers and employees.
 <br><br>
 
-### Public Sector <a name="public-sector"></a> 
+### **Public Sector** <a name="public-sector"></a> 
 
 #####	How do the 2021/2022 Guidelines affect the public sector’s wage adjustments, including the mid-year and year-end payments? <a name="20"></a>
 
