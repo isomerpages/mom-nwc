@@ -19,49 +19,52 @@ breadcrumb: FAQ
 
 2.	What are the key areas of focus in the NWC Guidelines?
     * There are three key areas of focus: 
-i.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
-ii.	Second, the NWC has provided Progressive Wage growth guidelines for the first time. This new role for the NWC was one of the recommendations of the Tripartite Workgroup on Lower-Wage Workers (TWG-LWW). 
-iii.	Third, training and transformation. To ensure sustainable wage growth, the NWC has called on tripartite partners to take decisive steps to transform jobs and upskill the workforce.
+        1.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
+        2.	Second, the NWC has provided Progressive Wage growth guidelines for the first time. This new role for the NWC was one of the recommendations of the Tripartite Workgroup on Lower-Wage Workers (TWG-LWW). 
+        3.	Third, training and transformation. To ensure sustainable wage growth, the NWC has called on tripartite partners to take decisive steps to transform jobs and upskill the workforce.
 
 3.	How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations? 
-•	The 2021/2022 Guidelines are drafted in the context of an economic recovery, and hence, focuses primarily on the restoration of wage cuts and rolling back of cost-saving measures implemented during the onset of COVID-19. However, the NWC also recognised the unevenness of the recovery. Hence, the Guidelines also provide flexibility for employers that continue to be adversely impacted. 
-•	For the first time, the NWC will provide Progressive Wage growth guidelines. This new role for the NWC was one of the recommendations of the TWG-LWW. In arriving at the Progressive Wage growth recommendations, the tripartite partners had to balance the need to meaningfully uplift LWW wages so that they can gain ground on the median worker, as well as to allow flexibility for some sectors and employers that continue to face economic uncertainty and headwinds. 
-•	However, there was strong conviction among tripartite partners to uplift LWWs, and for all members of society to play their part in achieving this. As a result, the tripartite partners were able to reach a consensus. 
+    *	The 2021/2022 Guidelines are drafted in the context of an economic recovery, and hence, focuses primarily on the restoration of wage cuts and rolling back of cost-saving measures implemented during the onset of COVID-19. However, the NWC also recognised the unevenness of the recovery. Hence, the Guidelines also provide flexibility for employers that continue to be adversely impacted. 
+    *	For the first time, the NWC will provide Progressive Wage growth guidelines. This new role for the NWC was one of the recommendations of the TWG-LWW. In arriving at the Progressive Wage growth recommendations, the tripartite partners had to balance the need to meaningfully uplift LWW wages so that they can gain ground on the median worker, as well as to allow flexibility for some sectors and employers that continue to face economic uncertainty and headwinds. 
+    *	However, there was strong conviction among tripartite partners to uplift LWWs, and for all members of society to play their part in achieving this. As a result, the tripartite partners were able to reach a consensus. 
+<br>
 
-Recovering Employers
+#### Recovering Employers
+
 4.	What is the NWC’s definition of ‘employers that have recovered or are recovering’? How should companies assess if they are in this category?
-•	These companies were previously adversely impacted by COVID-19 (e.g. they might have experienced a significant fall in revenue or profits), but are now no longer impacted or impacted to a smaller extent. Companies should assess whether they are recovering based on their own business KPIs, performance and outlook, and share the financial information with Unions, where applicable. 
+    *	These companies were previously adversely impacted by COVID-19 (e.g. they might have experienced a significant fall in revenue or profits), but are now no longer impacted or impacted to a smaller extent. Companies should assess whether they are recovering based on their own business KPIs, performance and outlook, and share the financial information with Unions, where applicable. 
 
 5.	Do the Guidelines allow companies that have implemented wage freezes or wage cuts to continue to do so? How much of wages can employers temporarily cut if they continue to be adversely impacted?
-•	Employers that continue to be impacted by COVID-19 should continue to tap on government support measures such as the Productivity Solutions Grant to accelerate business and workforce transformation, consider non-wage cost-saving measures as far as possible and endeavour to pay the Annual Wage Supplement. 
-•	If they have exhausted these measures but still face significant cost pressures and poor business prospects, they should then seek unions’ or employees’ support (where applicable) to implement further temporary wage cuts to the extent needed to minimise retrenchments.
+    *	Employers that continue to be impacted by COVID-19 should continue to tap on government support measures such as the Productivity Solutions Grant to accelerate business and workforce transformation, consider non-wage cost-saving measures as far as possible and endeavour to pay the Annual Wage Supplement. 
+    *	If they have exhausted these measures but still face significant cost pressures and poor business prospects, they should then seek unions’ or employees’ support (where applicable) to implement further temporary wage cuts to the extent needed to minimise retrenchments.
 
 6.	What are the expected Government support measures for employers that continue to be adversely impacted? Since the recovery is uneven across industries, will there be more industry-specific support?
-•	The Government is mindful that some sectors, such as aviation- and tourism-related industries, will take more time to recover. For these sectors, we will continue to take a more customised approach, in order to preserve core capabilities and talent. 
-•	The Government stands ready to support all Singaporeans to tide through this crisis and emerge stronger. As our economy recovers, we will continually recalibrate our support based on each sector’s specific needs and recovery trajectory, to ensure that our measures are targeted and achieve good value for money outcomes. The most-affected sectors such as Food & Beverage Services, Retail and Hotels have also rolled out Job Redesign Reskilling programmes with WSG’s assistance. They are using the downtime to train and upskill existing workers to take on redesigned and enhanced job roles, as part of their industry transformation. We have reskilled and redeployed close to 9,000 workers through these programmes. 
+    *	The Government is mindful that some sectors, such as aviation- and tourism-related industries, will take more time to recover. For these sectors, we will continue to take a more customised approach, in order to preserve core capabilities and talent. 
+    *	The Government stands ready to support all Singaporeans to tide through this crisis and emerge stronger. As our economy recovers, we will continually recalibrate our support based on each sector’s specific needs and recovery trajectory, to ensure that our measures are targeted and achieve good value for money outcomes. The most-affected sectors such as Food & Beverage Services, Retail and Hotels have also rolled out Job Redesign Reskilling programmes with WSG’s assistance. They are using the downtime to train and upskill existing workers to take on redesigned and enhanced job roles, as part of their industry transformation. We have reskilled and redeployed close to 9,000 workers through these programmes. 
 
 7.	Will MOM be investigating companies that might have conducted prolonged wage cuts and assessing if those sustained cuts are reasonable?
-•	To ensure cost-saving measures implemented were reasonable and fair, MOM/TAFEP had proactively engaged more than 900 employers employing close to 56,000 affected employees whose salary reductions appeared to be excessive based on the tripartite advisories. About 330 of them had agreed to review their measures; while the remaining employers were able to justify the necessity of cost-saving measures for business survival. 
-•	MOM also reached out to employees who felt that their employers’ cost-saving measures were unreasonable or unfair. Through MOM’s intervention which included assessing fairness of employers’ cost-saving measures, the vast majority of employers were able to resolve their disputes amicably with the employees who had lodged complaints initially; with one in five employers also providing better salary support to their employees after MOM’s intervention.
+    *	To ensure cost-saving measures implemented were reasonable and fair, MOM/TAFEP had proactively engaged more than 900 employers employing close to 56,000 affected employees whose salary reductions appeared to be excessive based on the tripartite advisories. About 330 of them had agreed to review their measures; while the remaining employers were able to justify the necessity of cost-saving measures for business survival. 
+    *	MOM also reached out to employees who felt that their employers’ cost-saving measures were unreasonable or unfair. Through MOM’s intervention which included assessing fairness of employers’ cost-saving measures, the vast majority of employers were able to resolve their disputes amicably with the employees who had lodged complaints initially; with one in five employers also providing better salary support to their employees after MOM’s intervention.
+<br>
 
-Lower Wage Workers
+#### Lower Wage Workers
 8.	Why has the salary threshold of those considered lower-wage workers (LWWs) changed to $2,000 in gross monthly wage? 
-•	The NWC has taken reference from the recommendations by the Tripartite Workgroup on Lower Wage Workers, which consider LWWs as those earning a gross monthly income from work up to the 20th percentile income level of full-time employed residents, which was about $2,000 in June 2020.
+    *	The NWC has taken reference from the recommendations by the Tripartite Workgroup on Lower Wage Workers, which consider LWWs as those earning a gross monthly income from work up to the 20th percentile income level of full-time employed residents, which was about $2,000 in June 2020.
 
 9.	How will the Government support employers, particularly those that are still recovering, with the costs of providing more significant wage increment to lower wage workers? 
-•	In response to the recommendations by the Tripartite Workgroup on Lower Wage Workers, the Government is looking into transitional support for employers, with more details to be announced in due course.
+    *	In response to the recommendations by the Tripartite Workgroup on Lower Wage Workers, the Government is looking into transitional support for employers, with more details to be announced in due course.
 
 10.	Can we expect the wage increases in the Food Services, Retail Progressive Wage Models (PWMs) to be in line with the NWC’s recommendations? 
-•	Tripartite Clusters that are setting the wage rungs for their respective sectoral Progressive Wages, including the Food Services and Retail PWMs, should take reference from the NWC’s recommended Progressive Wage Growth. 
-•	At the same time, both sectors are significantly affected by COVID-19. The Tripartite Clusters will therefore also need to take into consideration their sectors’ unique business and job circumstances in setting the wage increases for their PWM.
+    *	Tripartite Clusters that are setting the wage rungs for their respective sectoral Progressive Wages, including the Food Services and Retail PWMs, should take reference from the NWC’s recommended Progressive Wage Growth. 
+    *	At the same time, both sectors are significantly affected by COVID-19. The Tripartite Clusters will therefore also need to take into consideration their sectors’ unique business and job circumstances in setting the wage increases for their PWM.
 
 11.	Will the Local Qualifying Salary (LQS) be increased in line with the NWC’s recommendations? 
-•	The Government has increased the LQS annually since 2017, with the exception of 2021.
-•	However, the Government recognises that the new LQS requirement in 2022 will have significant impact on employers. Hence, we have no plans to further increase for now but will focus on the implementation of the new LQS rules.
-•	The Government will take into account locals’ wage trends and economic conditions, as well as the need to continue to uplift LWWs’ wages when reviewing LQS.
+    *	The Government has increased the LQS annually since 2017, with the exception of 2021.
+    *	However, the Government recognises that the new LQS requirement in 2022 will have significant impact on employers. Hence, we have no plans to further increase for now but will focus on the implementation of the new LQS rules.
+    *	The Government will take into account locals’ wage trends and economic conditions, as well as the need to continue to uplift LWWs’ wages when reviewing LQS.
 
 12.	Can a firm covered by the PWM reduce wages below the PWM wage rungs through the Flexible Wage System, in order to save jobs? 
-•	The need to reduce wages to below PWM wage rungs has not been an issue so far. Even at the height of COVID-19, the Tripartite Clusters did not reduce PWM wages.
+*	The need to reduce wages to below PWM wage rungs has not been an issue so far. Even at the height of COVID-19, the Tripartite Clusters did not reduce PWM wages.
 •	The NWC has recommended that employers implementing a general policy of wage reduction should implement a wage freeze instead for lower-wage workers earning a monthly gross wage of $2,000 and below.
 •	Nonetheless, we recognise that there may be instances where employers need to reduce wages to save jobs. The Tripartite Clusters that oversee the respective PWMs can provide guidance on implementing the Flexible Wage System in their sectors.
 
