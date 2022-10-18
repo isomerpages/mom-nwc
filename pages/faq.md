@@ -36,6 +36,7 @@ breadcrumb: FAQ
 
 **[Implementation](#implementation)**
 
+{:start="13"}
   13. [How does NWC track the implementation and take-up of the wage-related recommendations, particularly the adoption of the Flexible Wage System?](#13)
   14. [Will employers who do not implement the NWC recommendations be penalised?](#14)
   15. [What is the current adoption of the Flexible Wage System (FWS)? What does the NWC intend to do to increase the adoption of FWS?](#15)
@@ -43,6 +44,18 @@ breadcrumb: FAQ
   17. [How does the Council ensure that its guidelines remain relevant to employers?](#17)
   18. [Do the NWC Guidelines (including the PW recommendations) apply to foreign employees?](#18)
 
+**[Job Redesign](#job-redesign)**
+
+{:start="19"}
+  19. [Why should employers do job redesign? What support is there for employers that wish to embark on job redesign and how can employers apply?](#19)
+
+**[Public Sector](#implementation)**
+  
+{:start="20"}
+  20. [How do the 2021/2022 Guidelines affect the public sector’s wage adjustments, including the mid-year and year-end payments?](#20)
+  21. [Will the Public Service be showing special consideration to lower-wage officers through variable payments or built-in wage increments?](#21)
+  22. [Will the Public Service show special consideration to public officers who have been on the frontlines of Singapore’s fight against the pandemic (e.g., teachers, healthcare workers)?](#22)
+<br>
 
 
 ### Wage Outlook <a name="wage-outlook"></a>
@@ -50,7 +63,7 @@ breadcrumb: FAQ
 #####	What is the current wage outlook? <a name="1"></a>
 
   * For the rest of the year, resident employment should continue to expand alongside continuing economic recovery. In 2022, demand for resident and   non-resident workers will rise further as the economy expands at an above-trend pace. As labour market slack dissipates and foreign labour supply gradually normalises, resident wage growth is anticipated to strengthen. 
-
+<br><br>
 
 ### Regarding the Guidelines <a name="regarding-the-guidelines"></a>
 
@@ -88,7 +101,7 @@ breadcrumb: FAQ
 
   *	To ensure cost-saving measures implemented were reasonable and fair, MOM/TAFEP had proactively engaged more than 900 employers employing close to 56,000 affected employees whose salary reductions appeared to be excessive based on the tripartite advisories. About 330 of them had agreed to review their measures; while the remaining employers were able to justify the necessity of cost-saving measures for business survival. 
   *	MOM also reached out to employees who felt that their employers’ cost-saving measures were unreasonable or unfair. Through MOM’s intervention which included assessing fairness of employers’ cost-saving measures, the vast majority of employers were able to resolve their disputes amicably with the employees who had lodged complaints initially; with one in five employers also providing better salary support to their employees after MOM’s intervention.
-<br>
+<br><br>
 
 ### Lower Wage Workers <a name="lower-wage-workers"></a> 
 
