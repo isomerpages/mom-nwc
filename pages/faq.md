@@ -8,17 +8,17 @@ breadcrumb: FAQ
 ### **FAQ**
 
 **Note**: These FAQs are based on the 2021/2022 guidelines
-<br><br>
+
 
 #### Wage Outlook
-<br>
+
 1.	What is the current wage outlook?
 
     * For the rest of the year, resident employment should continue to expand alongside continuing economic recovery. In 2022, demand for resident and   non-resident workers will rise further as the economy expands at an above-trend pace. As labour market slack dissipates and foreign labour supply gradually normalises, resident wage growth is anticipated to strengthen. 
-<br>
+
 
 #### Regarding the Guidelines
-<br>
+
 2.	What are the key areas of focus in the NWC Guidelines?
     * There are three key areas of focus: 
         a.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
