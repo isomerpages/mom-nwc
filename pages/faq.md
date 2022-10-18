@@ -7,7 +7,7 @@ breadcrumb: FAQ
 ## **FAQ**
 
 ***Note**: These FAQs are based on the 2021/2022 guidelines*
-<br>
+<br><br>
 
   **[Wage Outlook](#wage-outlook)**  
   1. [What is the current wage outlook?](#1) 
@@ -60,7 +60,6 @@ breadcrumb: FAQ
 
 ---
 
-<br>
 ### **Wage Outlook** <a name="wage-outlook"></a>
 
 #####	What is the current wage outlook? <a name="1"></a>
