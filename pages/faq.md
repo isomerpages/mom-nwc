@@ -8,18 +8,18 @@ breadcrumb: FAQ
 
 **Note**: These FAQs are based on the 2021/2022 guidelines
 
-  **[Wage Outlook](#wage-outlook)**
-  
-  1. [What is the current wage outlook?](#1)
- 
-  **[Regarding the Guidelines](#regarding-the-guidelines)**
-  
+  **[Wage Outlook](#wage-outlook)**  
+  1. [What is the current wage outlook?](#1) 
+  **[Regarding the Guidelines](#regarding-the-guidelines)**  
 {:start="2"}
-  2. [What are the key areas of focus in the NWC Guidelines](#2)
-  
+  2. [What are the key areas of focus in the NWC Guidelines](#2)  
   3. [How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations?](#3)
-
-  [Another paragraph](#paragraph2)
+  **[Recovering Employers](#recovering-employers)**
+{:start="4"}
+  4. [What is the NWC’s definition of ‘employers that have recovered or are recovering’? How should companies assess if they are in this category?](#4)
+  5. [Do the Guidelines allow companies that have implemented wage freezes or wage cuts to continue to do so? How much of wages can employers temporarily cut if they continue to be adversely impacted?](#5)
+  6. [What are the expected Government support measures for employers that continue to be adversely impacted? Since the recovery is uneven across industries, will there be more industry-specific support?](#6)
+  7. [Will MOM be investigating companies that might have conducted prolonged wage cuts and assessing if those sustained cuts are reasonable?](#7)
 
 
 #### Wage Outlook <a name="wage-outlook"></a>
@@ -43,20 +43,20 @@ breadcrumb: FAQ
     *	However, there was strong conviction among tripartite partners to uplift LWWs, and for all members of society to play their part in achieving this. As a result, the tripartite partners were able to reach a consensus. 
 <br>
 
-#### Recovering Employers
+#### Recovering Employers <a name="recovering-employers"></a> 
 <br>
-4.	What is the NWC’s definition of ‘employers that have recovered or are recovering’? How should companies assess if they are in this category?
+4.	What is the NWC’s definition of ‘employers that have recovered or are recovering’? How should companies assess if they are in this category? <a name="4"></a> 
     *	These companies were previously adversely impacted by COVID-19 (e.g. they might have experienced a significant fall in revenue or profits), but are now no longer impacted or impacted to a smaller extent. Companies should assess whether they are recovering based on their own business KPIs, performance and outlook, and share the financial information with Unions, where applicable. 
 
-5.	Do the Guidelines allow companies that have implemented wage freezes or wage cuts to continue to do so? How much of wages can employers temporarily cut if they continue to be adversely impacted?
+5.	Do the Guidelines allow companies that have implemented wage freezes or wage cuts to continue to do so? How much of wages can employers temporarily cut if they continue to be adversely impacted? <a name="5"></a> 
     *	Employers that continue to be impacted by COVID-19 should continue to tap on government support measures such as the Productivity Solutions Grant to accelerate business and workforce transformation, consider non-wage cost-saving measures as far as possible and endeavour to pay the Annual Wage Supplement. 
     *	If they have exhausted these measures but still face significant cost pressures and poor business prospects, they should then seek unions’ or employees’ support (where applicable) to implement further temporary wage cuts to the extent needed to minimise retrenchments.
 
-6.	What are the expected Government support measures for employers that continue to be adversely impacted? Since the recovery is uneven across industries, will there be more industry-specific support?
+6.	What are the expected Government support measures for employers that continue to be adversely impacted? Since the recovery is uneven across industries, will there be more industry-specific support? <a name="6"></a> 
     *	The Government is mindful that some sectors, such as aviation- and tourism-related industries, will take more time to recover. For these sectors, we will continue to take a more customised approach, in order to preserve core capabilities and talent. 
     *	The Government stands ready to support all Singaporeans to tide through this crisis and emerge stronger. As our economy recovers, we will continually recalibrate our support based on each sector’s specific needs and recovery trajectory, to ensure that our measures are targeted and achieve good value for money outcomes. The most-affected sectors such as Food & Beverage Services, Retail and Hotels have also rolled out Job Redesign Reskilling programmes with WSG’s assistance. They are using the downtime to train and upskill existing workers to take on redesigned and enhanced job roles, as part of their industry transformation. We have reskilled and redeployed close to 9,000 workers through these programmes. 
 
-7.	Will MOM be investigating companies that might have conducted prolonged wage cuts and assessing if those sustained cuts are reasonable?
+7.	Will MOM be investigating companies that might have conducted prolonged wage cuts and assessing if those sustained cuts are reasonable? <a name="7"></a> 
     *	To ensure cost-saving measures implemented were reasonable and fair, MOM/TAFEP had proactively engaged more than 900 employers employing close to 56,000 affected employees whose salary reductions appeared to be excessive based on the tripartite advisories. About 330 of them had agreed to review their measures; while the remaining employers were able to justify the necessity of cost-saving measures for business survival. 
     *	MOM also reached out to employees who felt that their employers’ cost-saving measures were unreasonable or unfair. Through MOM’s intervention which included assessing fairness of employers’ cost-saving measures, the vast majority of employers were able to resolve their disputes amicably with the employees who had lodged complaints initially; with one in five employers also providing better salary support to their employees after MOM’s intervention.
 <br>
