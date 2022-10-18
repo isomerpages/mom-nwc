@@ -79,7 +79,7 @@ breadcrumb: FAQ
   *	The 2021/2022 Guidelines are drafted in the context of an economic recovery, and hence, focuses primarily on the restoration of wage cuts and rolling back of cost-saving measures implemented during the onset of COVID-19. However, the NWC also recognised the unevenness of the recovery. Hence, the Guidelines also provide flexibility for employers that continue to be adversely impacted. 
   *	For the first time, the NWC will provide Progressive Wage growth guidelines. This new role for the NWC was one of the recommendations of the TWG-LWW. In arriving at the Progressive Wage growth recommendations, the tripartite partners had to balance the need to meaningfully uplift LWW wages so that they can gain ground on the median worker, as well as to allow flexibility for some sectors and employers that continue to face economic uncertainty and headwinds. 
   *	However, there was strong conviction among tripartite partners to uplift LWWs, and for all members of society to play their part in achieving this. As a result, the tripartite partners were able to reach a consensus. 
-<br>
+<br><br>
 
 ### Recovering Employers <a name="recovering-employers"></a> 
 
@@ -129,7 +129,7 @@ breadcrumb: FAQ
   *	The need to reduce wages to below PWM wage rungs has not been an issue so far. Even at the height of COVID-19, the Tripartite Clusters did not reduce PWM wages.
   *	The NWC has recommended that employers implementing a general policy of wage reduction should implement a wage freeze instead for lower-wage workers earning a monthly gross wage of $2,000 and below.
   *	Nonetheless, we recognise that there may be instances where employers need to reduce wages to save jobs. The Tripartite Clusters that oversee the respective PWMs can provide guidance on implementing the Flexible Wage System in their sectors.
-<br>
+<br><br>
 
 ### Implementation <a name="implementation"></a>
 
@@ -164,7 +164,7 @@ breadcrumb: FAQ
 #####	Do the NWC Guidelines (including the PW recommendations) apply to foreign employees? <a name="18"></a>
 
   *	Employers are encouraged to take the NWC Guidelines into consideration while making wage adjustments for their foreign employees.
-<br>
+<br><br>
 
 ### Job Redesign <a name="job-redesign"></a> 
 
@@ -173,7 +173,7 @@ breadcrumb: FAQ
   *	Job redesign supports employers’ business transformation journey by ensuring that jobs are transformed to make the most of new technology or business processes, and that employers acquire the skills to perform well in these jobs. Job redesign therefore enables employers to achieve productivity gains. This can help employers gain a competitive edge today and be better prepared to seize new opportunities when the economy recovers.
   *	The Productivity Solutions Grant for Job Redesign (“PSG-JR”) provides support for job redesign consultancy services. The JR consultants will guide employers to redesign work processes, tasks, duties and responsibilities of relevant job roles based on employers’ business transformation needs.
   *	At the same time, employees can be reskilled and upskilled to take on better jobs with higher wages. This makes jobs more attractive for employees, and they in turn are more likely to stay and grow with businesses. PSG-JR can therefore result in win-win benefits for both employers and employees.
-<br>
+<br><br>
 
 ### Public Sector <a name="public-sector"></a> 
 
@@ -191,6 +191,7 @@ breadcrumb: FAQ
 #####	Will the Public Service show special consideration to public officers who have been on the frontlines of Singapore’s fight against the pandemic (e.g., teachers, healthcare workers)? <a name="22"></a>
 
   *	Since last year, the public sector stepped up and worked exceptionally hard to fight COVID-19. This includes officers on the frontlines such as public healthcare workers, teachers, and those deployed to support various COVID-19 operations, as well as those who worked tirelessly behind the scenes to roll out support schemes for citizens and businesses, and those who scoured the world to secure our supplies of food and essential items, including vaccines.  
-  *	The Public Service will continue to recognise the efforts and contributions of officers in different ways, including through the annual performance appraisal process and other forms of awards. 
+  *	The Public Service will continue to recognise the efforts and contributions of officers in different ways, including through the annual performance appraisal process and other forms of awards.
+<br><br>
 
 *For more questions, refer to the [full FAQ](fullFAQ).*
