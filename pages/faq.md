@@ -56,7 +56,6 @@ breadcrumb: FAQ
   20. [How do the 2021/2022 Guidelines affect the public sector’s wage adjustments, including the mid-year and year-end payments?](#20)
   21. [Will the Public Service be showing special consideration to lower-wage officers through variable payments or built-in wage increments?](#21)
   22. [Will the Public Service show special consideration to public officers who have been on the frontlines of Singapore’s fight against the pandemic (e.g., teachers, healthcare workers)?](#22)
-<br><br>
 
 ---
 
