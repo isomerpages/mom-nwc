@@ -6,7 +6,7 @@ breadcrumb: FAQ
 
 ## **FAQ**
 
-**Note**: These FAQs are based on the 2021/2022 guidelines
+***Note**: These FAQs are based on the 2021/2022 guidelines*
 
   **[Wage Outlook](#wage-outlook)**  
   1. [What is the current wage outlook?](#1) 
