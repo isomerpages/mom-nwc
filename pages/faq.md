@@ -71,9 +71,9 @@ breadcrumb: FAQ
 #####	What are the key areas of focus in the NWC Guidelines? <a name="2"></a>
 
   * There are three key areas of focus: 
-    a.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
-    b.	Second, the NWC has provided Progressive Wage growth guidelines for the first time. This new role for the NWC was one of the recommendations of the Tripartite Workgroup on Lower-Wage Workers (TWG-LWW). 
-    c.	Third, training and transformation. To ensure sustainable wage growth, the NWC has called on tripartite partners to take decisive steps to transform jobs and upskill the workforce.
+    1.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
+    2.	Second, the NWC has provided Progressive Wage growth guidelines for the first time. This new role for the NWC was one of the recommendations of the Tripartite Workgroup on Lower-Wage Workers (TWG-LWW). 
+    3.	Third, training and transformation. To ensure sustainable wage growth, the NWC has called on tripartite partners to take decisive steps to transform jobs and upskill the workforce.
 
 #####	How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations? <a name="3"></a> 
 
