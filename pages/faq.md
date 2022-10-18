@@ -4,30 +4,34 @@ permalink: /faq/
 breadcrumb: FAQ
 ---
 
-
 ### **FAQ**
 
 **Note**: These FAQs are based on the 2021/2022 guidelines
 
-{:toc}
+[Wage Outlook](#wage-outlook)
+  1. [What is the current wage outlook?](#1)
+[Regarding the Guidelines](#regarding-the-guidelines)
+  2. [What are the key areas of focus in the NWC Guidelines](#2)
+  3. [How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations?](#3)
+[Another paragraph](#paragraph2)
 
 
-#### Wage Outlook
+#### Wage Outlook <a name="wage-outlook"></a>
 
-1.	What is the current wage outlook?
+#####	What is the current wage outlook? <a name="1"></a>
 
   * For the rest of the year, resident employment should continue to expand alongside continuing economic recovery. In 2022, demand for resident and   non-resident workers will rise further as the economy expands at an above-trend pace. As labour market slack dissipates and foreign labour supply gradually normalises, resident wage growth is anticipated to strengthen. 
 
 
-#### Regarding the Guidelines
+#### Regarding the Guidelines <a name="regarding-the-guidelines"></a>
 
-2.	What are the key areas of focus in the NWC Guidelines?
+2.	What are the key areas of focus in the NWC Guidelines? <a name="2"></a>
     * There are three key areas of focus: 
         a.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
         b.	Second, the NWC has provided Progressive Wage growth guidelines for the first time. This new role for the NWC was one of the recommendations of the Tripartite Workgroup on Lower-Wage Workers (TWG-LWW). 
         c.	Third, training and transformation. To ensure sustainable wage growth, the NWC has called on tripartite partners to take decisive steps to transform jobs and upskill the workforce.
 
-3.	How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations? 
+3.	How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations? <a name="3"></a> 
     *	The 2021/2022 Guidelines are drafted in the context of an economic recovery, and hence, focuses primarily on the restoration of wage cuts and rolling back of cost-saving measures implemented during the onset of COVID-19. However, the NWC also recognised the unevenness of the recovery. Hence, the Guidelines also provide flexibility for employers that continue to be adversely impacted. 
     *	For the first time, the NWC will provide Progressive Wage growth guidelines. This new role for the NWC was one of the recommendations of the TWG-LWW. In arriving at the Progressive Wage growth recommendations, the tripartite partners had to balance the need to meaningfully uplift LWW wages so that they can gain ground on the median worker, as well as to allow flexibility for some sectors and employers that continue to face economic uncertainty and headwinds. 
     *	However, there was strong conviction among tripartite partners to uplift LWWs, and for all members of society to play their part in achieving this. As a result, the tripartite partners were able to reach a consensus. 
