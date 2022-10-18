@@ -10,13 +10,13 @@ breadcrumb: FAQ
 <br><br>
 
 #### Wage Outlook
-
+<br>
 1.	What is the current wage outlook?
     * For the rest of the year, resident employment should continue to expand alongside continuing economic recovery. In 2022, demand for resident and non-resident workers will rise further as the economy expands at an above-trend pace. As labour market slack dissipates and foreign labour supply gradually normalises, resident wage growth is anticipated to strengthen. 
 <br>
 
 #### Regarding the Guidelines
-
+<br>
 2.	What are the key areas of focus in the NWC Guidelines?
     * There are three key areas of focus: 
         1.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
@@ -30,7 +30,7 @@ breadcrumb: FAQ
 <br>
 
 #### Recovering Employers
-
+<br>
 4.	What is the NWC’s definition of ‘employers that have recovered or are recovering’? How should companies assess if they are in this category?
     *	These companies were previously adversely impacted by COVID-19 (e.g. they might have experienced a significant fall in revenue or profits), but are now no longer impacted or impacted to a smaller extent. Companies should assess whether they are recovering based on their own business KPIs, performance and outlook, and share the financial information with Unions, where applicable. 
 
@@ -48,6 +48,7 @@ breadcrumb: FAQ
 <br>
 
 #### Lower Wage Workers
+<br>
 8.	Why has the salary threshold of those considered lower-wage workers (LWWs) changed to $2,000 in gross monthly wage? 
     *	The NWC has taken reference from the recommendations by the Tripartite Workgroup on Lower Wage Workers, which consider LWWs as those earning a gross monthly income from work up to the 20th percentile income level of full-time employed residents, which was about $2,000 in June 2020.
 
@@ -70,6 +71,7 @@ breadcrumb: FAQ
 <br>
 
 #### Implementation
+<br>
 13.	How does NWC track the implementation and take-up of the wage-related recommendations, particularly the adoption of the Flexible Wage System?
     *	MOM conducts the annual Survey on Annual Wage Changes to understand employers’ employment and contracting practices. This includes information on employers’ adoption of the NWC’s wage-related recommendations, and the inclusion of the Monthly Variable Component and Annual Wage Supplement in employees’ wage structure.
 
@@ -98,6 +100,7 @@ breadcrumb: FAQ
 <br>
 
 #### Job Redesign
+<br>
 19.	Why should employers do job redesign? What support is there for employers that wish to embark on job redesign and how can employers apply?
     *	Job redesign supports employers’ business transformation journey by ensuring that jobs are transformed to make the most of new technology or business processes, and that employers acquire the skills to perform well in these jobs. Job redesign therefore enables employers to achieve productivity gains. This can help employers gain a competitive edge today and be better prepared to seize new opportunities when the economy recovers.
     *	The Productivity Solutions Grant for Job Redesign (“PSG-JR”) provides support for job redesign consultancy services. The JR consultants will guide employers to redesign work processes, tasks, duties and responsibilities of relevant job roles based on employers’ business transformation needs.
@@ -105,6 +108,7 @@ breadcrumb: FAQ
 <br>
 
 #### Public Sector
+<br>
 20.	How do the 2021/2022 Guidelines affect the public sector’s wage adjustments, including the mid-year and year-end payments?
     *	Earlier this year, civil servants received a mid-year AVC of 0.3 months in recognition of the improvements in our economic prospects, while bearing in mind the uncertainties surrounding our nation’s economic recovery. Civil servants in junior grades also received an additional one-off lump sum payment of $350 to $700, with those in grades equivalent to MX15 and MX16, and the Operations Support Scheme (OSS) Grades III to V receiving the higher payment.
     *	In line with the NWC’s call to ensure sustained wage growth for LWWs, the Civil Service will continue to adopt a progressive approach determining the wage adjustments for civil servants. For our lower-wage officers, PSD and the relevant agencies will also continue to engage the Amalgamated Union of Public Employees (AUPE) and other public sector unions on ways to uplift their wages sustainably, such as through job redesign to equip them with enhanced skills that can command a higher pay. 
