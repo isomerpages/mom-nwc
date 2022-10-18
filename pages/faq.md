@@ -13,7 +13,8 @@ breadcrumb: FAQ
   1. [What is the current wage outlook?](#1)
  
   **[Regarding the Guidelines](#regarding-the-guidelines)**
-  {:start="2"}
+  
+{:start="2"}
   2. [What are the key areas of focus in the NWC Guidelines](#2)
   
   3. [How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations?](#3)
