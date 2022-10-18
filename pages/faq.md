@@ -64,36 +64,37 @@ breadcrumb: FAQ
     *	The Government will take into account locals’ wage trends and economic conditions, as well as the need to continue to uplift LWWs’ wages when reviewing LQS.
 
 12.	Can a firm covered by the PWM reduce wages below the PWM wage rungs through the Flexible Wage System, in order to save jobs? 
-*	The need to reduce wages to below PWM wage rungs has not been an issue so far. Even at the height of COVID-19, the Tripartite Clusters did not reduce PWM wages.
-•	The NWC has recommended that employers implementing a general policy of wage reduction should implement a wage freeze instead for lower-wage workers earning a monthly gross wage of $2,000 and below.
-•	Nonetheless, we recognise that there may be instances where employers need to reduce wages to save jobs. The Tripartite Clusters that oversee the respective PWMs can provide guidance on implementing the Flexible Wage System in their sectors.
+    *	The need to reduce wages to below PWM wage rungs has not been an issue so far. Even at the height of COVID-19, the Tripartite Clusters did not reduce PWM wages.
+    *	The NWC has recommended that employers implementing a general policy of wage reduction should implement a wage freeze instead for lower-wage workers earning a monthly gross wage of $2,000 and below.
+    *	Nonetheless, we recognise that there may be instances where employers need to reduce wages to save jobs. The Tripartite Clusters that oversee the respective PWMs can provide guidance on implementing the Flexible Wage System in their sectors.
+<br>
 
-Implementation
+#### Implementation
 13.	How does NWC track the implementation and take-up of the wage-related recommendations, particularly the adoption of the Flexible Wage System?
-•	MOM conducts the annual Survey on Annual Wage Changes to understand employers’ employment and contracting practices. This includes information on employers’ adoption of the NWC’s wage-related recommendations, and the inclusion of the Monthly Variable Component and Annual Wage Supplement in employees’ wage structure.
+    *	MOM conducts the annual Survey on Annual Wage Changes to understand employers’ employment and contracting practices. This includes information on employers’ adoption of the NWC’s wage-related recommendations, and the inclusion of the Monthly Variable Component and Annual Wage Supplement in employees’ wage structure.
 
 14.	Will employers who do not implement the NWC recommendations be penalised?
-•	The NWC Guidelines are recommendations to guide employers so that both employer and employees can benefit. As such, employers are encouraged to implement the recommendations.
-•	For employers that encounter difficulties in the implementation of the Guidelines, the NWC encourages these employers to work with employers’ associations and unions to address their issues.
-•	For workers covered by the sectoral PWMs, employers must continue to implement Progressive Wages in order to meet licensing conditions.  From September 2022, employers that do not pay Progressive Wages or the Local Qualifying Wages to applicable workers will be asked by MOM to do so. The failure to rectify will eventually lead to employers not being able to apply for new Work Passes or renew their existing Work Passes.
+    *	The NWC Guidelines are recommendations to guide employers so that both employer and employees can benefit. As such, employers are encouraged to implement the recommendations.
+    *	For employers that encounter difficulties in the implementation of the Guidelines, the NWC encourages these employers to work with employers’ associations and unions to address their issues.
+    *	For workers covered by the sectoral PWMs, employers must continue to implement Progressive Wages in order to meet licensing conditions.  From September 2022, employers that do not pay Progressive Wages or the Local Qualifying Wages to applicable workers will be asked by MOM to do so. The failure to rectify will eventually lead to employers not being able to apply for new Work Passes or renew their existing Work Passes.
 
 15.	What is the current adoption of the Flexible Wage System (FWS)? What does the NWC intend to do to increase the adoption of FWS?
-•	Based on latest available data, 31.4% of employees had both the Monthly Variable Component (MVC) and Annual Variable Component (AVC) in their wage structure in 2020, which was a slight increase from 29.1%  in 2019. [If asked] In 2020, 0.7% of employees had only the MVC in their wage structure, 56.9% had only the AVC, and 11.0% had neither the MVC nor the AVC. As shared previously in the 2020/2021 Supplementary Guidelines, in 2019, 0.3% of employees had only the MVC in their wage structure, 60.7% had only the AVC, and 9.8% had neither the MVC nor the AVC.
-•	The tripartite partners have been working together to promote and support adoption of the FWS through multiple touchpoints such as workshops, webinars and small-group clinics. We are also working with the HR industry such as the Singapore Human Resources Institute (SHRI) and the Institute for Human Resource Professionals (IHRP) to build capabilities of HR professionals in implementing FWS. We are glad to see an increasingly level of interest from employers and HR professionals on the FWS.   
-•	The NWC urges all employers to urgently implement the FWS if they have not already done so. A flexible and competitive wage structure will enable employers to make quick adjustments during periods of economic uncertainty. At the same time, the FWS will provide greater job security for employees and ensure that wages are fairly and more quickly restored in tandem with business recovery.
-•	For advice and support on implementing the FWS, employers may refer to the FWS Guidebook which we have released alongside the NWC 2021/2022 Guidelines. Employers may also approach NTUC and its affiliated unions, SNEF, and the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP).
+    *	Based on latest available data, 31.4% of employees had both the Monthly Variable Component (MVC) and Annual Variable Component (AVC) in their wage structure in 2020, which was a slight increase from 29.1%  in 2019. [If asked] In 2020, 0.7% of employees had only the MVC in their wage structure, 56.9% had only the AVC, and 11.0% had neither the MVC nor the AVC. As shared previously in the 2020/2021 Supplementary Guidelines, in 2019, 0.3% of employees had only the MVC in their wage structure, 60.7% had only the AVC, and 9.8% had neither the MVC nor the AVC.
+    *	The tripartite partners have been working together to promote and support adoption of the FWS through multiple touchpoints such as workshops, webinars and small-group clinics. We are also working with the HR industry such as the Singapore Human Resources Institute (SHRI) and the Institute for Human Resource Professionals (IHRP) to build capabilities of HR professionals in implementing FWS. We are glad to see an increasingly level of interest from employers and HR professionals on the FWS.   
+    *	The NWC urges all employers to urgently implement the FWS if they have not already done so. A flexible and competitive wage structure will enable employers to make quick adjustments during periods of economic uncertainty. At the same time, the FWS will provide greater job security for employees and ensure that wages are fairly and more quickly restored in tandem with business recovery.
+    *	For advice and support on implementing the FWS, employers may refer to the FWS Guidebook which we have released alongside the NWC 2021/2022 Guidelines. Employers may also approach NTUC and its affiliated unions, SNEF, and the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP).
 
 16.	Did the NWC seek public feedback as part of its deliberations? What are some of the public feedback received by NWC?
-•	The NWC Secretariat sought feedback from the public from 3 to 14 September during the deliberations.
-•	Feedback was received in two broad areas - (a) wage and wage-related employment practices, and (b) training. Issues and suggestions included wage restoration where possible, and training opportunities even amidst cost-cutting measures. 
-•	The feedback received have been incorporated into the published guidelines.
+    *	The NWC Secretariat sought feedback from the public from 3 to 14 September during the deliberations.
+    *	Feedback was received in two broad areas - (a) wage and wage-related employment practices, and (b) training. Issues and suggestions included wage restoration where possible, and training opportunities even amidst cost-cutting measures. 
+    *	The feedback received have been incorporated into the published guidelines.
 
 17.	How does the Council ensure that its guidelines remain relevant to employers? 
-•	The NWC guidelines are arrived at through tripartite consultation and consensus involving the employers, employees and Government’s representatives. Such consensus building helps to ensure the guidelines are robust and practical, and to facilitate the adoption and implementation of the guidelines.
-•	Hence, there is strong commitment from the tripartite partners to implement the NWC Guidelines. This has been a hallmark of the NWC’s achievements. 
+    *	The NWC guidelines are arrived at through tripartite consultation and consensus involving the employers, employees and Government’s representatives. Such consensus building helps to ensure the guidelines are robust and practical, and to facilitate the adoption and implementation of the guidelines.
+    *	Hence, there is strong commitment from the tripartite partners to implement the NWC Guidelines. This has been a hallmark of the NWC’s achievements. 
 
 18.	Do the NWC Guidelines (including the PW recommendations) apply to foreign employees?
-•	Employers are encouraged to take the NWC Guidelines into consideration while making wage adjustments for their foreign employees.
+    *	Employers are encouraged to take the NWC Guidelines into consideration while making wage adjustments for their foreign employees.
 
 Job Redesign
 19.	Why should employers do job redesign? What support is there for employers that wish to embark on job redesign and how can employers apply?
