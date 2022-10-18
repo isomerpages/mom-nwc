@@ -1,4 +1,5 @@
 ---
+layout: default
 title: NWC Guidelines
 permalink: /guidelines/
 description: Past and Present NWC Guidelines
