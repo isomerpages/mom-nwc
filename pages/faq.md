@@ -34,26 +34,32 @@ breadcrumb: FAQ
   11. [Will the Local Qualifying Salary (LQS) be increased in line with the NWC’s recommendations?](#11)
   12. [Can a firm covered by the PWM reduce wages below the PWM wage rungs through the Flexible Wage System, in order to save jobs?](#12)
 
-**[Lower Wage Workers](#lower-wage-workers)**
+**[Implementation](#implementation)**
 
+  13. [How does NWC track the implementation and take-up of the wage-related recommendations, particularly the adoption of the Flexible Wage System?](#13)
+  14. [Will employers who do not implement the NWC recommendations be penalised?](#14)
+  15. [What is the current adoption of the Flexible Wage System (FWS)? What does the NWC intend to do to increase the adoption of FWS?](#15)
+  16. [Did the NWC seek public feedback as part of its deliberations? What are some of the public feedback received by NWC?](#16)
+  17. [How does the Council ensure that its guidelines remain relevant to employers?](#17)
+  18. [Do the NWC Guidelines (including the PW recommendations) apply to foreign employees?](#18)
 
 
 
 ### Wage Outlook <a name="wage-outlook"></a>
-<br>
+
 #####	What is the current wage outlook? <a name="1"></a>
 
   * For the rest of the year, resident employment should continue to expand alongside continuing economic recovery. In 2022, demand for resident and   non-resident workers will rise further as the economy expands at an above-trend pace. As labour market slack dissipates and foreign labour supply gradually normalises, resident wage growth is anticipated to strengthen. 
 
 
 ### Regarding the Guidelines <a name="regarding-the-guidelines"></a>
-<br>
+
 #####	What are the key areas of focus in the NWC Guidelines? <a name="2"></a>
 
   * There are three key areas of focus: 
-        a.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
-        b.	Second, the NWC has provided Progressive Wage growth guidelines for the first time. This new role for the NWC was one of the recommendations of the Tripartite Workgroup on Lower-Wage Workers (TWG-LWW). 
-        c.	Third, training and transformation. To ensure sustainable wage growth, the NWC has called on tripartite partners to take decisive steps to transform jobs and upskill the workforce.
+    a.	First, wage guidelines. The 2021/2022 Guidelines focuses primarily on the economic recovery, and therefore a restoration of wage cuts and rolling back of cost-saving measures implemented earlier. However, recognising the unevenness of the recovery, the Guidelines also provide flexibility for employers that continue to be adversely impacted. The Guidelines also emphasise the adoption of the Flexible Wage System to enhance resilience.
+    b.	Second, the NWC has provided Progressive Wage growth guidelines for the first time. This new role for the NWC was one of the recommendations of the Tripartite Workgroup on Lower-Wage Workers (TWG-LWW). 
+    c.	Third, training and transformation. To ensure sustainable wage growth, the NWC has called on tripartite partners to take decisive steps to transform jobs and upskill the workforce.
 
 #####	How did the NWC arrive at these recommendations? What were some of the considerations? What were the key or most difficult issues in the negotiations? <a name="3"></a> 
 
@@ -63,15 +69,15 @@ breadcrumb: FAQ
 <br>
 
 ### Recovering Employers <a name="recovering-employers"></a> 
-<br>
+
 #####	What is the NWC’s definition of ‘employers that have recovered or are recovering’? How should companies assess if they are in this category? <a name="4"></a>
 
   *	These companies were previously adversely impacted by COVID-19 (e.g. they might have experienced a significant fall in revenue or profits), but are now no longer impacted or impacted to a smaller extent. Companies should assess whether they are recovering based on their own business KPIs, performance and outlook, and share the financial information with Unions, where applicable. 
 
 #####	Do the Guidelines allow companies that have implemented wage freezes or wage cuts to continue to do so? How much of wages can employers temporarily cut if they continue to be adversely impacted? <a name="5"></a> 
 
-    *	Employers that continue to be impacted by COVID-19 should continue to tap on government support measures such as the Productivity Solutions Grant to accelerate business and workforce transformation, consider non-wage cost-saving measures as far as possible and endeavour to pay the Annual Wage Supplement. 
-    *	If they have exhausted these measures but still face significant cost pressures and poor business prospects, they should then seek unions’ or employees’ support (where applicable) to implement further temporary wage cuts to the extent needed to minimise retrenchments.
+  *	Employers that continue to be impacted by COVID-19 should continue to tap on government support measures such as the Productivity Solutions Grant to accelerate business and workforce transformation, consider non-wage cost-saving measures as far as possible and endeavour to pay the Annual Wage Supplement. 
+  *	If they have exhausted these measures but still face significant cost pressures and poor business prospects, they should then seek unions’ or employees’ support (where applicable) to implement further temporary wage cuts to the extent needed to minimise retrenchments.
 
 #####	What are the expected Government support measures for employers that continue to be adversely impacted? Since the recovery is uneven across industries, will there be more industry-specific support? <a name="6"></a> 
 
@@ -85,7 +91,7 @@ breadcrumb: FAQ
 <br>
 
 ### Lower Wage Workers <a name="lower-wage-workers"></a> 
-<br>
+
 #####	Why has the salary threshold of those considered lower-wage workers (LWWs) changed to $2,000 in gross monthly wage? <a name="8"></a> 
 
   *	The NWC has taken reference from the recommendations by the Tripartite Workgroup on Lower Wage Workers, which consider LWWs as those earning a gross monthly income from work up to the 20th percentile income level of full-time employed residents, which was about $2,000 in June 2020.
@@ -113,7 +119,7 @@ breadcrumb: FAQ
 <br>
 
 ### Implementation <a name="implementation"></a>
-<br>
+
 #####	How does NWC track the implementation and take-up of the wage-related recommendations, particularly the adoption of the Flexible Wage System? <a name="13"></a>
 
   *	MOM conducts the annual Survey on Annual Wage Changes to understand employers’ employment and contracting practices. This includes information on employers’ adoption of the NWC’s wage-related recommendations, and the inclusion of the Monthly Variable Component and Annual Wage Supplement in employees’ wage structure. 
@@ -148,7 +154,7 @@ breadcrumb: FAQ
 <br>
 
 #### Job Redesign <a name="job-redesign"></a> 
-<br>
+
 19.	Why should employers do job redesign? What support is there for employers that wish to embark on job redesign and how can employers apply?
     *	Job redesign supports employers’ business transformation journey by ensuring that jobs are transformed to make the most of new technology or business processes, and that employers acquire the skills to perform well in these jobs. Job redesign therefore enables employers to achieve productivity gains. This can help employers gain a competitive edge today and be better prepared to seize new opportunities when the economy recovers.
     *	The Productivity Solutions Grant for Job Redesign (“PSG-JR”) provides support for job redesign consultancy services. The JR consultants will guide employers to redesign work processes, tasks, duties and responsibilities of relevant job roles based on employers’ business transformation needs.
@@ -156,7 +162,7 @@ breadcrumb: FAQ
 <br>
 
 #### Public Sector <a name="public-sector"></a> 
-<br>
+
 20.	How do the 2021/2022 Guidelines affect the public sector’s wage adjustments, including the mid-year and year-end payments?
     *	Earlier this year, civil servants received a mid-year AVC of 0.3 months in recognition of the improvements in our economic prospects, while bearing in mind the uncertainties surrounding our nation’s economic recovery. Civil servants in junior grades also received an additional one-off lump sum payment of $350 to $700, with those in grades equivalent to MX15 and MX16, and the Operations Support Scheme (OSS) Grades III to V receiving the higher payment.
     *	In line with the NWC’s call to ensure sustained wage growth for LWWs, the Civil Service will continue to adopt a progressive approach determining the wage adjustments for civil servants. For our lower-wage officers, PSD and the relevant agencies will also continue to engage the Amalgamated Union of Public Employees (AUPE) and other public sector unions on ways to uplift their wages sustainably, such as through job redesign to equip them with enhanced skills that can command a higher pay. 
