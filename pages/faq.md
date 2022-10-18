@@ -57,8 +57,9 @@ breadcrumb: FAQ
   22. [Will the Public Service show special consideration to public officers who have been on the frontlines of Singapore’s fight against the pandemic (e.g., teachers, healthcare workers)?](#22)
 <br><br>
 
+---
 
-
+<br>
 ### **Wage Outlook** <a name="wage-outlook"></a>
 
 #####	What is the current wage outlook? <a name="1"></a>
