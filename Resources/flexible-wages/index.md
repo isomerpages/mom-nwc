@@ -4,7 +4,7 @@ permalink: /Resources/flexible-wages/
 breadcrumbs: Flexible Wage System
 ---
 
-The flexible wage system has 2 components: the Monthly Variable Component (MVC) and the Annual Variable Component (AVC).
+The flexible wage system has 2 components: the **Monthly Variable Component (MVC)** and the **Annual Variable Component (AVC)**.
 
 - The MVC is part of your basic monthly salary, and may be adjusted based on the financial situation as indicated by various KPI.
 - The AVC is directly linked to the company’s annual performance and varies directly with its operating and/or financial performance. It includes:
@@ -12,9 +12,9 @@ The flexible wage system has 2 components: the Monthly Variable Component (MVC) 
   - **Other Variable Payments**, rewarding employees for their contributions to short-term goals (e.g. new product launch, project completion, operational improvements) and are given monthly or quarterly
   - **Annual Wage Supplement (AWS) or 13th-Month Bonus**, which is a single annual payment typically given at the end of the calendar or financial year
 
-/br/
+<br>
 
-###Benefits of the FWS:
+### Benefits of the FWS:
 - For Singapore:
   1. Retains our competitiveness in a global economy
   2. Keeps wage costs sustainable
