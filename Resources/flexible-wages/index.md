@@ -12,6 +12,8 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
   - **Other Variable Payments**, rewarding employees for their contributions to short-term goals (e.g. new product launch, project completion, operational improvements) and are given monthly or quarterly
   - **Annual Wage Supplement (AWS) or 13th-Month Bonus**, which is a single annual payment typically given at the end of the calendar or financial year
 
+(More information [here](/resources/flexible-wages/files/TAFEP_Infographic 2_How Does the Flexible Wage System Work-1.png))
+
 <br>
 
 ### Benefits of the FWS:
@@ -27,3 +29,9 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
 - **For employees:**
   1. Ensures stable employment and job retention in times of economic uncertainty
   2. Provides objectivity and transparency for employees as they will know why, when and how their wages will be adjusted
+
+(More information [here](/resources/flexible-wages/files/TAFEP_Infographic 1_What is the Flexible Wage System-1.png))
+
+<br>
+
+For companies interested in implementing the FWS, [here](/resources/flexible-wages/files/TAFEP_Infographic 3_Embarking on the Flexible Wage System-1.png) are some tips to make sure your FWS implementation goes well and smooth.
