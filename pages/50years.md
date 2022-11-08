@@ -9,8 +9,6 @@ In 1972, the National Wages Council was convened as a tripartite advisory body o
 
 The inaugural meeting established a key guiding principle - imporant decisions must be made unanimously. This principle continues to be the bedrock of tripartite partnership today.
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F262894662401701%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
 ## 1985
 Singapore's first post-independence recession in 1985 exposed the shortcomings of a wage system that could not be adjusted quickly in tough economic times. As a result, many companies resorted to retrenchment. In 1986, the National Wages Council recommended the adoption of a Flexible Wage System, which has the Annual Variable Component as a wage element that could be cut if necessary to save jobs.
 
