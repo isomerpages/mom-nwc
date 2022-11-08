@@ -15,15 +15,15 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
 <br>
 
 ### Benefits of the FWS:
-- For Singapore:
+- **For Singapore:**
   1. Retains our competitiveness in a global economy
   2. Keeps wage costs sustainable
   3. Enables flexibility in wage structures and retains jobs in challenging times
 
-- For employers:
+- **For employers:**
   1. Enables agility and flexibility to adjust wages in financially challenging times which keeps business costs sustainable and competitive
   2. Rewards employees according to business performance, thus motivating them to help in business improvement and wage restoration
 
-- For employees:
+- **For employees:**
   1. Ensures stable employment and job retention in times of economic uncertainty
   2. Provides objectivity and transparency for employees as they will know why, when and how their wages will be adjusted
