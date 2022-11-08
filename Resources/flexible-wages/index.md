@@ -31,7 +31,7 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
   1. Ensures stable employment and job retention in times of economic uncertainty
   2. Provides objectivity and transparency for employees as they will know why, when and how their wages will be adjusted
 
-(An infographic on the Benefits of the FWS can be found [here](/resources/flexible-wages/files/TAFEP_Infographic 1_What is the Flexible Wage System-1.png))
+(An infographic on the benefits of the FWS can be found [here](/resources/flexible-wages/files/TAFEP_Infographic 1_What is the Flexible Wage System-1.png))
 
 <br>
 
