@@ -7,7 +7,7 @@ breadcrumbs: 50 Years of NWC
 ## 1972
 In 1972, the National Wages Council was convened as a tripartite advisory body on wage adjustments. Held at the Economic Development Board's office in the Fullerton Building, the first Council meeting was attended by representatives from the unions, employer groups, and the government.
 
-![The Fullerton Hotel today](https://github.com/isomerpages/mom-nwc/blob/fb5c49ab2f48a8ed1fa91504247916cdad23d0c1/images/50%20years/Fullerton%20Hotel.jpg)
+![The Fullerton Hotel today](https://upload.wikimedia.org/wikipedia/commons/9/94/20190819_The_Fullerton_Hotel_Singapore-1.jpg)
 
 The inaugural meeting established a key guiding principle - imporant decisions must be made unanimously. This principle continues to be the bedrock of tripartite partnership today.
 
