@@ -17,6 +17,8 @@ Singapore's first post-independence recession in 1985 exposed the shortcomings o
 ## 1999
 In 1999, the Monthly Variable Component was also introduced to reduce wage costs promptly.
 
+![Stamps created to commemorate the NWC's 50th Anniversary](/images/50 years/stamps (2).png)
+
 ## 2012
 The National Wages Council believes that the fruit of economic growth should be enjoyed by all Singaporeans. Since 2012, the Council has given special consideration to lower-wage workers by recommending quantitative wage increases for them.
 
