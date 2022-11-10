@@ -41,7 +41,7 @@ third_nav_title: "Meet the Council Members"
       <div class="row margin--bottom--xs margin--right">
         <div class="col is-one-third image-col">
           {% if director.image-url %}
-            <img class="margin--right--none" src="{{- site.baseurl -}}{{- director.image-url -}}" style="width:300px;height:300px;" />
+            <img class="margin--right--none" src="{{- site.baseurl -}}{{- director.image-url -}}" style="width:100px;height:100px;" />
           {% endif %}
         </div>
         <div class="col padding--top padding--bottom bg-table-grey">
