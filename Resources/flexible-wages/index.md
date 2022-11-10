@@ -13,7 +13,7 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
   - **Other Variable Payments**, rewarding employees for their contributions to short-term goals (e.g. new product launch, project completion, operational improvements) and are given monthly or quarterly
   - **Annual Wage Supplement (AWS) or 13th-Month Bonus**, which is a single annual payment typically given at the end of the calendar or financial year
 
-(An infographic on the components of the FWS can be found [here](/resources/flexible-wages/files/TAFEP_Infographic 2_How Does the Flexible Wage System Work-1.png))
+(A summary of the components of the FWS can be found [here](/resources/flexible-wages/files/TAFEP_Infographic 2_How Does the Flexible Wage System Work-1.png))
 
 <br>
 
@@ -31,7 +31,7 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
   1. Ensures stable employment and job retention in times of economic uncertainty
   2. Provides objectivity and transparency for employees as they will know why, when and how their wages will be adjusted
 
-(An infographic on the benefits of the FWS can be found [here](/resources/flexible-wages/files/TAFEP_Infographic 1_What is the Flexible Wage System-1.png))
+(An overview of the benefits of the FWS can be found [here](/resources/flexible-wages/files/TAFEP_Infographic 1_What is the Flexible Wage System-1.png))
 
 <br>
 
@@ -46,6 +46,6 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
 ##### Swiss Precision Industries:
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F311632267510368%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-For companies interested in implementing the FWS, [here](/resources/flexible-wages/files/TAFEP_Infographic 3_Embarking on the Flexible Wage System-1.png) are some tips to make sure your FWS implementation goes well and smooth.
+For companies interested in implementing the FWS, [here](/resources/flexible-wages/files/TAFEP_Infographic 3_Embarking on the Flexible Wage System-1.png) are some tips to make sure your FWS implementation goes smoothly.
 
 For a more comprehensive breakdown, refer to the [FWS guidebook](/resources/flexible-wages/files/1029-fws-online-guidebook.pdf).
