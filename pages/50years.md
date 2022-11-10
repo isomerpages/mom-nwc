@@ -9,7 +9,7 @@ In 1972, the National Wages Council was convened as a tripartite advisory body o
 
 The inaugural meeting established a key guiding principle - imporant decisions must be made unanimously. This principle continues to be the bedrock of tripartite partnership today.
 
-![Stamp depicting the first inaugural NWC meeting in 1972](/images/50 years/stamps/1972 stamp.png){ width=50% }
+![Stamp depicting the first inaugural NWC meeting in 1972](/images/50 years/stamps/1972 stamp.png)
 
 <img src="/images/50 years/stamps/1972 stamp.png" width="60%" height="60%"/>
 
