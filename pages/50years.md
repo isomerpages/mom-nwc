@@ -27,7 +27,7 @@ In 2021, the council set out the first of its annual guidance on the range of Pr
 
 ![Uplifting Lower-Wage Workers](/images/50 years/stamps/LWW stamp.png)
 
-### Emerging Stronger from COVID-19
+## Emerging Stronger from COVID-19
 Staying united, the National Wages Council has helped employers and workers navigate and emerge stronger through the 1985 recession, the 1998 Asian Financial Crisis, 2003 SARS crisis, and the 2008-2009 Global Financial Crisis.
 
 Amid COVID-19, the Council convened four times over 2020 and 2021, and developed guidelines for employers on wages and managing excess manpower in a timely manner.
