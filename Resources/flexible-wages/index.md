@@ -37,15 +37,15 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
 
 #### Hear how the FWS has helped our companies through the Pandemic:
 
-##### Raffles Hotel:
+**Raffles Hotel:**
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F262894662401701%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-##### Deloitte:
+**Deloitte:**
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F4106345519470552%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-##### Swiss Precision Industries:
+**Swiss Precision Industries:**
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F311632267510368%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-For companies interested in implementing the FWS, [here](/resources/flexible-wages/files/TAFEP_Infographic 3_Embarking on the Flexible Wage System-1.png) are some tips to make sure your FWS implementation goes smoothly.
+##### For companies interested in implementing the FWS, [here](/resources/flexible-wages/files/TAFEP_Infographic 3_Embarking on the Flexible Wage System-1.png) are some tips to make sure your FWS implementation goes smoothly.
 
 _For more information, refer to the [FWS guidebook](/resources/flexible-wages/files/1029-fws-online-guidebook.pdf)._
