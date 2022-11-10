@@ -48,4 +48,4 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
 
 For companies interested in implementing the FWS, [here](/resources/flexible-wages/files/TAFEP_Infographic 3_Embarking on the Flexible Wage System-1.png) are some tips to make sure your FWS implementation goes smoothly.
 
-For a more comprehensive breakdown, refer to the [FWS guidebook](/resources/flexible-wages/files/1029-fws-online-guidebook.pdf).
+_For more information, refer to the [FWS guidebook](/resources/flexible-wages/files/1029-fws-online-guidebook.pdf)._
