@@ -27,6 +27,6 @@ The National Wages Council believes that the fruit of economic growth should be 
 ## 2021
 In 2021, the council set out the first of its annual guidance on the range of Progressive Wage growth to uplift lower-wage workers.
 
-![Uplifting our Lower-Wage Workers](/images/50 years/Progressive Wages Infographic.jpg)
+![Uplifting our Lower-Wage Workers](/images/50 years/Progressive Wages Poster.jpg)
 <div style="text-align: center"> Uplifting our Lower-Wage Workers </div>
 
