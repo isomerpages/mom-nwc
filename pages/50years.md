@@ -11,6 +11,8 @@ The inaugural meeting established a key guiding principle - imporant decisions m
 
 ![Stamp depicting the first inaugural NWC meeting in 1972](/images/50 years/stamps/1972 stamp.png){ width=50% }
 
+<img src="/images/50 years/stamps/1972 stamp.png" width="60%" height="60%"/>
+
 ## Flexible Wage System
 Singapore's first post-independence recession in 1985 exposed the shortcomings of a wage system that could not be adjusted quickly in tough economic times.
 
