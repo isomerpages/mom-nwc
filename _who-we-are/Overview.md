@@ -13,7 +13,7 @@ description: ""
 * To advise on desirable incentive systems for the promotion of operational efficiency and productivity in various enterprises
 
 
-![Image of Sentosa](https://www.sentosa.gov.sg/images/who-we-are/overview/new-about-us-overview.jpg)
+![NWC 50th Anniversary](images/ball.png)
 
 ##### How does the NWC come up with its guidelines?
 
