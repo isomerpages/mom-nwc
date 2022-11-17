@@ -11,7 +11,7 @@ sections:
       subtitle: Sustaining Wage Growth through Tripartism
       background: /images/NWC Banner 3.png
       button: Read the NWC 2022/2023 Guidelines
-      url: /NWC-guidelines/NWC 2022-2023 Guidelines.pdf
+      url: https://github.com/isomerpages/mom-nwc/blob/daf00982ff6ec0856ccc226b7c0fed50cd589328/NWC-guidelines/NWC%202022-2023%20Guidelines.pdf
       key_highlights:
         - title: NWC Guidelines
           description: View Current and Past Guidelines
@@ -29,5 +29,5 @@ sections:
       title: NWC 2022/2023 Guidelines
       description: "The NWC 2022/2023 Guidelines were released on 14 November 2022. "
       button: Read the guidelines
-      url: /NWC-guidelines/NWC 2022-2023 Guidelines.pdf
+      url: https://github.com/isomerpages/mom-nwc/blob/daf00982ff6ec0856ccc226b7c0fed50cd589328/NWC-guidelines/NWC%202022-2023%20Guidelines.pdf
 ---
