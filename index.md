@@ -29,5 +29,5 @@ sections:
       title: NWC 2022/2023 Guidelines
       description: "The NWC 2022/2023 Guidelines were released on 14 November 2022. "
       button: Read the guidelines
-      url: /NWC-guidelines/2022-2023-Guidelines.pdf
+      url: _NWC-guidelines/2022-2023-Guidelines.pdf
 ---
