@@ -15,7 +15,7 @@ description: ""
 <img src="/images/ball.png"
      alt="NWC's 50th Anniversary"
      title="NWC's 50th Anniversary"
-     style="width:50%;height:auto;" />
+     style="width:100%;height:auto;" />
 
 ##### How does the NWC come up with its guidelines?
 
