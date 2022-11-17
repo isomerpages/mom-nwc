@@ -13,7 +13,7 @@ description: ""
 * To advise on desirable incentive systems for the promotion of operational efficiency and productivity in various enterprises
 
 
-![NWC 50th Anniversary](images/ball.png)
+![NWC 50th Anniversary](/images/ball.png)
 
 ##### How does the NWC come up with its guidelines?
 
