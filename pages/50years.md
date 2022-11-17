@@ -4,6 +4,8 @@ permalink: /50years/
 breadcrumbs: 50 Years of NWC
 ---
 
+<iframe src="https://drive.google.com/file/d/1xQGJZwrROmL95SXkLznkdJ5oXqstPxjW/view/" width="1500px" height="500px"></iframe>
+
 ## Inaugural 1972 National Wages Council Meeting
 In 1972, the National Wages Council was convened as a tripartite advisory body on wage adjustments. Held at the Economic Development Board's office in the Fullerton Building, the first Council meeting was attended by representatives from the unions, employer groups, and the government.
 
