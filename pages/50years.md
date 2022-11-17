@@ -5,7 +5,7 @@ breadcrumbs: 50 Years of NWC
 ---
 
 <div style="justify-content: center; display: flex;">
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F1562426114180408%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F1562426114180408%2F&show_text=false&width=560&t=0" width="1120" height="628" style="border:none;overflow:hidden;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </div>
 
 ## Inaugural 1972 National Wages Council Meeting
