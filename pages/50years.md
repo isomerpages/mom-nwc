@@ -4,7 +4,9 @@ permalink: /50years/
 breadcrumbs: 50 Years of NWC
 ---
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F1562426114180408%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"; margin: auto></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsgministryofmanpower%2Fvideos%2F1562426114180408%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden;display: block;
+  margin-left: auto;
+  margin-right: auto;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ## Inaugural 1972 National Wages Council Meeting
 In 1972, the National Wages Council was convened as a tripartite advisory body on wage adjustments. Held at the Economic Development Board's office in the Fullerton Building, the first Council meeting was attended by representatives from the unions, employer groups, and the government.
