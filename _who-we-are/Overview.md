@@ -12,8 +12,10 @@ description: ""
 * To recommend necessary adjustments in wage structure, with a view to developing a coherent wage system consistent with long-term economic and social development
 * To advise on desirable incentive systems for the promotion of operational efficiency and productivity in various enterprises
 
-
-![NWC 50th Anniversary](/images/ball.png)
+<img src="/images/ball.png"
+     alt="NWC's 50th Anniversary"
+     title="NWC's 50th Anniversary"
+     style="width:50%;height:auto;" />
 
 ##### How does the NWC come up with its guidelines?
 
