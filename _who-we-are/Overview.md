@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /who-we-are/overview
+permalink: /who-we-are/overview/
 description: ""
 ---
 #### The NWC is a tripartite body comprising representatives from the three social partners –  Employers, the Labour Movement and the Government. 
@@ -25,4 +25,4 @@ A guiding principle established and observed by the NWC is that real wage increa
 
 ##### How are the guidelines used?
 
-The NWC wage guidelines are used by both unionised and non-unionised companies. Employers and unions in unionised companies use the guidelines as a framework for wage negotiation based on the circumstances faced by each company. Employers in the non-unionised sector that do not engage in collective bargaining have also relied on the guidelines as a reference point in determining wage increases for their employees.
+The NWC wage guidelines are used by both unionised and non-unionised companies. Employers and unions in unionised companies use the guidelines as a framework for wage negotiation based on the circumstances faced by each company. Employers in the non-unionised sector who do not engage in collective bargaining have also relied on the guidelines as a reference point in determining wage increases for their employees.
