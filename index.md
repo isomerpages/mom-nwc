@@ -9,7 +9,7 @@ sections:
   - hero:
       title: National Wages Council
       subtitle: Sustaining Wage Growth through Tripartism
-      background: /images/Banner/Banner 2 (Gradient 100-0) (Brightness -50).png
+      background: /images/Banner/w Logos.png
       button: Read the NWC 2022/2023 Guidelines
       url: /2022-2023-guidelines/
       key_highlights:
