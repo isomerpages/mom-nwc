@@ -1,5 +1,4 @@
 ---
-layout: resources-alt
 title: Progressive Wage Model
 permalink: /Resources/progressive-wages/
 breadcrumbs: Progressive Wage Model
