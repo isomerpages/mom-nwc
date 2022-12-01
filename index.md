@@ -21,7 +21,7 @@ sections:
           url: /Resources/flexible-wages/
         - title: Progressive wages
           description: Uplifting Lower-Wage Workers
-          url: https://www.mom.gov.sg/employment-practices/progressive-wage-model
+          url: /Resources/progressive-wages/
         - title: 50 years of NWC
           description: Celebrating the NWC's Golden Jubilee
           url: /50years/
