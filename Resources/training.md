@@ -1,3 +1,9 @@
+---
+title: Training Requirements from March 2023
+permalink: /Resources/training/
+breadcrumbs: Training Requirements from March 2023
+---
+
 ### Training requirements from March 2023
 Employers are required to ensure that all resident OPW employees attain either:
   1. One Workforce Skills Qualifications (WSQ) course, with no restriction on which course can be taken, or;
