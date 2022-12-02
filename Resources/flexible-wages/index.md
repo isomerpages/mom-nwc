@@ -50,7 +50,7 @@ The flexible wage system has 2 components: the **Monthly Variable Component (MVC
 
 _For more information, refer to the [FWS guidebook](/resources/flexible-wages/files/1029-fws-online-guidebook.pdf)._
 
-_If you require assistance to implement FWS, you can approach the following partners:_
+_If you require assistance in implementing the FWS, you can approach the following partners:_
 
 [Singapore National Employers' Federation (SNEF)](https://snef.org.sg/)
 
@@ -62,4 +62,4 @@ _If you require assistance to implement FWS, you can approach the following part
 
 [Productivity Solutions Grant](https://www.gobusiness.gov.sg/productivity-solutions-grant/)
 
-[Institute for Human Resource Professionals (IHRP)](https://ihrp.sg/)*
+[Institute for Human Resource Professionals (IHRP)](https://ihrp.sg/)
