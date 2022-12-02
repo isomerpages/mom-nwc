@@ -11,7 +11,8 @@ breadcrumbs: Training Requirements from March 2023
 <li>Employers can also tap on Government subsidies to reskill and upskill employees, e.g., Workforce Singapore’s Career Conversion Programmes which provide up to 90% of monthly salary for training duration. Individuals can also tap on the SkillsFuture Mid-Career Enhanced Subsidy, which provides subsidies of up to 90% of course fees for SSG-supported courses.</li>
 <li>Employers can also seek the assistance of SNEF, Singapore Business Federation (“SBF”), other trade associations & chambers, the unions and NTUC LearningHub, access consultancy services offered by the National Centre of Excellence for Workplace Learning (“NACE”), or join a SkillsFuture Queen Bee network in their sector where available to raise their capability and capacity for training their own workers.</li>
 <li>Employers should also recognise and support the acquisition and demonstration of skills in decisions affecting hiring and career advancements.</li>
-
+</ol>
+  
 ### Training requirements from March 2023
 Employers are required to ensure that all resident OPW employees attain either:
 <ol>
