@@ -1,7 +1,7 @@
 ---
-title: Training Requirements from March 2023
+title: Training Recommendations
 permalink: /Resources/training/
-breadcrumbs: Training Requirements from March 2023
+breadcrumbs: Training Recommendations
 ---
 
 ## The NWC recommends that employers implement training and productivity initiatives
